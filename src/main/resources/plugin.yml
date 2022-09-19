@@ -1,0 +1,4 @@
+name: KitPvP
+version: '${project.version}'
+main: gg.souppvp.kitpvp.KitPvP
+authors: [ Negative ]
